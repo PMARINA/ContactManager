@@ -1,0 +1,14 @@
+# ContactManager
+<ol>
+<li>Download all Files</li>
+<li>Add StdLib.jar to the compile path (from Princeton cs courses)</li>
+<li>Compile the files</li>
+<li>Run ContactManager</li>
+<li>Add contacts to your heart's content</li>
+<li>Save your contacts (closes the program as you save)</li>
+<li>Rerun ContactManager</li>
+<li>Click "Import"</li>
+<li>Watch as your contacts appear magically</li>
+<li>Search for your contacts either by name or number</li>
+<li>Give me an A+</li>
+</ol>
