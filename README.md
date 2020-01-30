@@ -12,3 +12,8 @@
 <li>Search for your contacts either by name or number</li>
 <li>Give me an A+</li>
 </ol>
+
+<b>Known Bugs</b>
+<ul>
+  <li> Telephone numbers ending in 0 will have ending 0's truncated. This requires changing the data type to String.</li>
+</ul>
